@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "574",
+  "base_artist": "Qisano",
+  "createdAt": "2025-12-15T09:10:57.146035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "574.Old Town Road (feat. Billy Ray Cyrus) - Remix",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/01_574.Old_Town_Road_(feat._Billy_Ray_Cyrus)_-_Remix_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "574 - Groot Is Hij",
+      "artist": "Opwekking",
+      "has_synced": true,
+      "path": "select/02_574_-_Groot_Is_Hij_Opwekking.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "574 Groot is Hij",
+      "artist": "Opwekking",
+      "has_synced": true,
+      "path": "select/03_574_Groot_is_Hij_Opwekking.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "574",
+      "artist": "Qisano",
+      "has_synced": false,
+      "path": "select/pl_01_574_Qisano.txt"
+    }
+  ]
+}
